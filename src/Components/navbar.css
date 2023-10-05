@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  border: 2px solid black;
+  height: 75px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  background-color: rgba(21, 4, 75, 0.913);
+}
+#menu {
+  height: 75px;
+  width: 800px;
+}
+ol {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  top: 30px;
+}
+#logo {
+  width: 100px;
+}
+
+#cart {
+  margin-right: 25px;
+  height: 25px;
+  width: 25px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

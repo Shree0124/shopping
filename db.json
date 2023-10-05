@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "product": " Apple iphone13",
+      "img": "https://rukminim2.flixcart.com/image/416/416/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=70",
+      "desc": " iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity",
+      "price": "94,900",
+      "id": 2
+    },
+    {
+      "product": "HP Pavilion",
+      "img": "https://rukminim2.flixcart.com/image/416/416/kbqu4cw0/computer/q/x/r/hp-original-imaftyzachgrav8f.jpeg?q=70",
+      "desc": "8 GB/512 GB SSD/Windows 10/4 GB Graphics/NVIDIA GeForce GTX 1650/144 Hz) 15-ec2004AX Gaming Laptop  (15.6 inch, Shadow Black, 1.98 kg)",
+      "price": "59,999",
+      "id": 3
+    },
+    {
+      "product": "Predator",
+      "img": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/2/n/y/-original-imagp7wfgcjkqgsn.jpeg?q=70",
+      "desc": "16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 4050) PHN16-71-59XW/ PHN16-71-553K Gaming Laptop  (16 Inch, Obsidian Black, 2.6 Kg",
+      "price": "1,04,990",
+      "id": 4
+    },
+    {
+      "product": "OnePlus 9R",
+      "img": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/q/f/o/-original-imagdnatanzxwsjb.jpeg?q=70",
+      "desc": " Camera: 50MP Main Camera (OIS enabled), 16MP Ultra-wide angle camera & 2MP Macro lens; Front (Selfie) Camera: 16MP; Flash: Dual LED Camera Features",
+      "price": "38.000",
+      "id": 5
+    },
+    {
+      "product": "APPLE  Airpods",
+      "img": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/e/6/p/-original-imaghxgnhsp4msmz.jpeg?q=70",
+      "desc": "AirPods Pro feature up to 2x more Active Noise Cancellation, plus Adaptive Transparency, and Personalised Spatial Audio with dynamic head tracking for immersive sound",
+      "price": "16,999",
+      "id": 6
+    },
+    {
+      "product": "Noise",
+      "img": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/d/q/r/-original-imagp6skt77zsdjt.jpeg?q=70",
+      "desc": "You can enjoy up to 50 hours of music, movies, or binge watch all night long with these Noise Buds VS102 earbuds. In addition to its excellent audio quality it has a stunning flybird design which makes it trendy",
+      "price": "1299",
+      "id": 7
+    },
+    {
+      "product": "Bat",
+      "img": "https://m.media-amazon.com/images/I/31FWJrt0ENL._SX300_SY300_QL70_FMwebp_.jpg",
+      "desc": "Used XTROKE to hit a Tennis ball, this cricket bat is expertly crafted using Popular willow to provide long-lasting performance on the pitch.",
+      "price": "434",
+      "id": 8
+    },
+    {
+      "product": "Fridge",
+      "img": "https://m.media-amazon.com/images/I/41vOaVsiaeL._SY445_SX342_QL70_FMwebp_.jpg",
+      "desc": "VOLTAS BEKO, Voltas Beko, Voltas Beko (Deemed), (Deemed) Voltbek Home Appliances",
+      "price": "13,840",
+      "id": 9
+    },
+    {
+      "product": "Fire-Boltt Phoenix ",
+      "img": "https://m.media-amazon.com/images/I/61y2VVWcGBL._SX679_.jpg",
+      "desc": "Bluetooth Calling 1.3\",120+ Sports Modes, 240 * 240 PX High Res with SpO2, Heart Rate Monitoring & IP67 Rating (Black)",
+      "price": "1,399",
+      "id": 10
+    }
+  ]
+}
